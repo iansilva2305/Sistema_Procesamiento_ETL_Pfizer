@@ -1,0 +1,201 @@
+patient_id,age,gender,treatment_group,enrollment_date,site_id,baseline_measure,week_4_measure,week_8_measure,adverse_event,notes
+P001,71,M,Control,2023-02-21,US-001,101.7,100,,None,Patient exhibits better than expected response
+P002,49,F,A,2023-06-09,asia-002,127.9,109.3,100.8,Mild,Patient reports improved symptoms since last visit
+P003,28,F,A,2023-05-18,asia-002,107.8,93,,None,Patient reported mild discomfort at injection site
+P004,70,m,A,2023-03-25,ASIA-001,125.8,108.7,99.5,Mild,Patient reported mild discomfort at injection site
+P005,29,F,B,2023-12-18,EU-002,123.9,,,Moderate,Follow-up required for reported side effects
+P006,23,F,Control,2023-03-29,eu-001,117.3,,119.6,,Patient reports improved symptoms since last visit
+P007,70,Male,Control,2023-02-06,asia-002,112.2,108.2,103.4,None,No significant observations during this visit
+P008,23,m,B,2023-04-01,EU-002,105.7,96.9,91.2,None,Patient reports improved symptoms since last visit
+P009,48,Female,Placebo,2023-09-14,asia-002,114.9,113.9,112.3,None,Patient reports improved symptoms since last visit
+P010,49,F,Control,2023-08-31,ASIA-001,118.3,115.6,114.9,None,Follow-up required for reported side effects
+P011,69,f,Placebo,2023-09-24,US-002,117.1,115.6,109.9,None,
+P012,36,Male,A,2023-07-28,EU-002,114.4,102.7,89.7,Mild,Patient exhibited standard response to treatment
+P013,51,Female,B,2023-12-25,ASIA-001,124.1,115,105.4,None,Patient reports improved symptoms since last visit
+P014,59,F,Control,2023-03-28,EU-002,128.3,121.8,114.8,None,Patient exhibits better than expected response
+P015,55,F,Placebo,2023-08-29,asia-002,118.1,114.5,111.3,None,Patient reported mild discomfort at injection site
+P016,64,Male,B,2023-11-23,ASIA-001,125.1,117,109.3,None,
+P017,31,Female,B,2023-04-13,US-001,134.4,123.8,115.9,None,Patient exhibited standard response to treatment
+P018,26,M,A,2023-09-16,US-002,119.2,102.1,89.8,Mild,Patient exhibits better than expected response
+P019,70,Male,B,2023-01-18,US-001,125.5,116.4,104.8,None,Patient exhibits better than expected response
+P020,68,M,B,2023-11-13,asia-002,125,112.4,106.7,Severe,
+P021,58,m,A,2023-04-26,US-001,123.4,108,103.7,Mild,Patient exhibits better than expected response
+P022,74,f,A,2023-09-12,US-002,104.1,89.8,81.8,Mild,Patient missed one dose due to travel
+P023,41,Male,Control,2023-05-26,US-001,121.1,122.3,117.2,None,Patient exhibited standard response to treatment
+P024,64,Female,Control,2023-10-05,ASIA-001,113.5,109.6,108.3,None,Patient missed one dose due to travel
+P025,42,M,A,2023-03-24,EU-002,118.9,104.3,93.9,Moderate,
+P026,21,F,A,2023-04-12,US-002,111.9,100.1,92.1,Mild,Patient exhibits better than expected response
+P027,43,m,B,2023-12-21,eu-001,123.1,112.7,105.8,Mild,
+P028,21,Female,A,2023-09-06,US-002,120.2,103.4,95.3,Mild,Patient reported mild discomfort at injection site
+P029,32,Female,A,2023-01-08,US-001,128,110.4,96.9,Severe,Patient reported mild discomfort at injection site
+P030,43,F,A,2023-03-13,ASIA-001,129,112.2,98.2,Mild,Patient reports improved symptoms since last visit
+P031,64,M,B,2023-10-13,ASIA-001,118,,107.2,None,
+P032,62,Female,Control,2023-01-22,US-001,112.2,113.2,113.2,None,Follow-up required for reported side effects
+P033,25,M,B,2023-11-17,EU-002,130.5,117.5,,None,Patient reports improved symptoms since last visit
+P034,22,Female,Control,2023-05-25,US-001,133.4,133,131.6,Moderate,Follow-up required for reported side effects
+P035,23,F,Control,2023-08-17,EU-002,114.5,116.9,114.3,None,Follow-up required for reported side effects
+P036,70,Male,B,2023-07-28,US-002,134,123.9,114.9,None,Patient reported mild discomfort at injection site
+P037,72,F,A,2023-12-02,EU-002,138.9,119.5,105.5,Moderate,Patient reports improved symptoms since last visit
+P038,25,F,A,2023-03-16,asia-002,130,112.1,102.7,Mild,Patient missed one dose due to travel
+P039,60,Female,B,2023-04-20,ASIA-001,110.4,101.3,94.6,Mild,Follow-up required for reported side effects
+P040,40,m,Placebo,2023-12-02,US-002,115.8,112.3,,None,No significant observations during this visit
+P041,19,Male,Control,2023-05-07,ASIA-001,123.4,123.1,118.5,None,Patient exhibited standard response to treatment
+P042,43,m,A,2023-09-21,US-001,121,102.4,90.3,Mild,
+P043,45,Male,B,2023-10-31,ASIA-001,114.5,105.4,98,None,Patient exhibited standard response to treatment
+P044,39,f,Placebo,2023-03-10,EU-002,112.9,115.3,112.6,None,Follow-up required for reported side effects
+P045,29,f,B,2023-05-15,US-002,110.1,99.5,92.5,Mild,
+P046,61,M,Placebo,2023-01-21,US-001,124.6,124,123.6,None,Patient exhibited standard response to treatment
+P047,27,f,B,2023-06-11,ASIA-001,132.2,119.9,110.6,None,Patient missed one dose due to travel
+P048,53,m,Control,2023-02-20,asia-002,124.5,120.8,121.7,None,Patient missed one dose due to travel
+P049,63,M,Placebo,2023-08-10,US-001,103.8,99.7,98.7,None,Patient exhibited standard response to treatment
+P050,48,Female,Control,2023-01-05,eu-001,123.5,123.9,118.9,None,Patient exhibited standard response to treatment
+P051,42,M,A,2023-06-07,EU-002,114.1,96.8,85.8,Moderate,Patient reported mild discomfort at injection site
+P052,46,Female,Placebo,2023-12-10,asia-002,124.3,118.6,117.3,None,No significant observations during this visit
+P053,32,F,Placebo,2023-12-07,US-002,116.9,119.1,116,None,No significant observations during this visit
+P054,56,m,B,2023-06-28,eu-001,127.2,115.6,105.9,Mild,No significant observations during this visit
+P055,30,M,Control,2023-04-27,asia-002,126.9,126.1,130.1,None,Patient reports improved symptoms since last visit
+P056,24,F,B,2023-05-13,eu-001,122.7,118.1,110.4,None,Follow-up required for reported side effects
+P057,42,Male,A,2023-10-31,US-002,123.1,106.6,97.1,Mild,Follow-up required for reported side effects
+P058,64,M,B,2023-04-05,EU-002,126,119.5,115.4,Mild,Patient reports improved symptoms since last visit
+P059,71,M,Control,2023-08-23,EU-002,117.9,121.4,124.5,None,No significant observations during this visit
+P060,42,Male,A,2023-10-11,eu-001,121.1,,93.3,Mild,Patient missed one dose due to travel
+P061,34,M,Placebo,2023-09-20,EU-002,129.2,123.5,125.1,None,Patient reports improved symptoms since last visit
+P062,74,Female,B,2023-01-22,EU-002,106.4,100.8,92.5,Mild,
+P063,68,m,A,2023-06-05,ASIA-001,123.6,105.5,92.8,Mild,Patient missed one dose due to travel
+P064,58,M,Control,2023-07-20,US-001,102.9,97.5,98.5,None,Patient reports improved symptoms since last visit
+P065,52,F,Placebo,2023-01-30,EU-002,121,116.5,119.3,None,Patient exhibited standard response to treatment
+P066,45,M,Placebo,2023-10-06,asia-002,124.8,126.5,123.3,Moderate,Patient exhibited standard response to treatment
+P067,31,F,Control,2023-05-01,US-002,129.7,134.1,135.5,None,Patient exhibited standard response to treatment
+P068,18,Female,B,2023-11-01,EU-002,113,105.9,99.5,Mild,Patient exhibited standard response to treatment
+P069,58,f,Placebo,2023-01-04,eu-001,112.5,113.9,116.4,None,Follow-up required for reported side effects
+P070,54,f,B,2023-07-31,asia-002,117.1,107.2,99.2,Moderate,Patient reported mild discomfort at injection site
+P071,19,Female,Placebo,2023-06-09,asia-002,118.3,115.9,113.9,None,Patient exhibits better than expected response
+P072,48,Male,Control,2023-03-26,EU-002,118.3,118.7,,None,Patient reports improved symptoms since last visit
+P073,38,Female,A,2023-07-30,US-002,130.2,112.1,100.6,Mild,Patient exhibits better than expected response
+P074,28,Male,A,2023-05-07,US-002,123.2,106.5,99.5,Moderate,No significant observations during this visit
+P075,45,Female,B,2023-05-21,US-001,130.7,118.7,111.7,None,
+P076,56,M,B,2023-11-16,US-001,113.7,103.5,98.9,None,Patient exhibits better than expected response
+P077,65,Female,A,2023-11-06,US-001,104.2,88.6,80.2,Mild,No significant observations during this visit
+P078,30,Female,B,2023-01-26,asia-002,119.1,109.1,102.6,Mild,Patient exhibited standard response to treatment
+P079,40,F,Placebo,2023-06-13,asia-002,131,134.8,130.4,None,Patient exhibited standard response to treatment
+P080,60,M,Control,2023-06-12,EU-002,122.2,125.9,124.4,None,No significant observations during this visit
+P081,34,F,Control,2023-09-05,US-001,109.4,109.3,110.7,None,Patient exhibited standard response to treatment
+P082,56,F,A,2023-10-08,eu-001,124.4,109.1,101.7,Mild,Patient reported mild discomfort at injection site
+P083,65,Male,Placebo,2023-12-03,US-002,117.2,118.7,119.8,None,Patient exhibited standard response to treatment
+P084,40,F,B,2023-04-03,US-001,125.8,115.4,104.9,None,
+P085,25,Female,A,2023-12-23,ASIA-001,123.5,107.8,94.7,Mild,
+P086,42,Male,Control,2023-07-05,US-002,123.2,122.3,124.9,None,Patient exhibited standard response to treatment
+P087,51,f,A,2023-06-18,eu-001,127.7,111.6,101.3,Mild,Patient exhibits better than expected response
+P088,58,F,A,2023-09-10,US-001,121.9,108.4,101.9,Mild,Patient missed one dose due to travel
+P089,50,m,B,2023-01-17,eu-001,125.5,114.9,111.7,None,Patient exhibited standard response to treatment
+P090,39,m,Placebo,2023-04-16,US-001,121.2,119.6,122.9,None,
+P091,45,F,Control,2023-01-14,US-002,114.5,114.8,120.6,None,Patient exhibits better than expected response
+P092,53,M,A,2023-08-17,ASIA-001,123.2,105.5,95.8,Moderate,
+P093,52,M,Placebo,2023-12-20,eu-001,124.9,122.4,124,None,Patient exhibited standard response to treatment
+P094,35,f,B,2023-04-14,US-002,107,98.8,89.8,Mild,Patient reported mild discomfort at injection site
+P095,28,Male,A,2023-11-25,EU-002,110.7,93.1,85.6,,No significant observations during this visit
+P096,37,m,A,2023-05-11,US-001,114.8,99.1,89.8,Moderate,Patient missed one dose due to travel
+P097,33,f,B,2023-05-04,eu-001,133.2,125.5,115.9,Mild,Patient missed one dose due to travel
+P098,29,f,Placebo,2023-07-12,US-002,114.1,117.8,120.1,None,
+P099,31,Female,Control,2023-08-16,asia-002,119.3,120.9,119.3,None,Patient exhibits better than expected response
+P100,65,M,A,2023-03-12,EU-002,131.1,111.4,97.6,Mild,Follow-up required for reported side effects
+P101,73,M,B,2023-01-24,eu-001,123.3,112.7,104.9,Mild,Patient exhibited standard response to treatment
+P102,52,m,A,2023-05-23,EU-002,109.5,94.8,86.4,Mild,No significant observations during this visit
+P103,62,f,Control,2023-04-26,eu-001,120.3,121.6,117.9,None,No significant observations during this visit
+P104,44,f,A,2023-09-03,US-001,132,115.7,106.8,Mild,No significant observations during this visit
+P105,33,Male,Placebo,2023-05-06,asia-002,114.2,114.8,111.5,None,Patient reported mild discomfort at injection site
+P106,20,M,A,2023-12-05,us-002,123.2,105.5,98.9,Mild,No significant observations during this visit
+P107,21,M,B,2023-09-03,US-001,116.6,110.4,99.6,Mild,Patient exhibits better than expected response
+P108,46,M,B,2023-09-19,eu-001,118.8,113.1,102.9,Mild,Patient reported mild discomfort at injection site
+P109,58,M,Placebo,2023-12-11,ASIA-001,137.4,137.4,134.7,None,Patient reports improved symptoms since last visit
+P110,21,Female,B,2023-12-18,asia-002,125.5,117.5,,None,Recommended additional monitoring for reported symptoms
+P111,61,M,Control,2023-09-28,asia-002,107.5,107.1,106.3,None,Patient missed one dose due to travel
+P112,64,m,A,2023-07-23,US-001,118.3,104.1,94.4,Mild,Patient missed one dose due to travel
+P113,27,Male,B,2023-11-06,asia-002,122.5,113,,Mild,No significant observations during this visit
+P114,38,f,A,2023-06-14,US-001,110.3,97,87.2,Moderate,Follow-up required for reported side effects
+P115,54,Female,B,2023-06-17,asia-002,116.4,106.7,97.4,,Patient exhibited standard response to treatment
+P116,31,m,Placebo,2023-05-16,asia-002,111,108.6,108,None,No significant observations during this visit
+P117,66,M,A,2023-12-18,EU-002,112.9,96.7,93.2,Mild,
+P118,63,Male,Control,2023-01-30,asia-002,120.4,117.7,121.7,None,
+P119,43,M,A,2023-06-07,eu-001,120.5,102.8,93.8,Mild,Patient exhibits better than expected response
+P120,43,F,B,2023-07-14,ASIA-001,123.3,114.8,110.5,None,Patient reports improved symptoms since last visit
+P121,23,F,Control,2023-06-28,ASIA-001,129.2,134.4,134.7,None,Patient exhibited standard response to treatment
+P122,22,M,Placebo,2023-04-01,eu-001,107.2,109.4,110.5,None,
+P123,74,F,B,2023-03-21,eu-001,116.3,105.9,98.2,None,
+P124,49,M,Placebo,2023-10-15,ASIA-001,120.9,120.2,122.1,None,Follow-up required for reported side effects
+P125,28,Male,B,2023-11-19,EU-002,138.4,126.3,116.7,Severe,Patient exhibits better than expected response
+P126,29,F,Control,2023-01-26,ASIA-001,122.6,123.9,126.2,None,Follow-up required for reported side effects
+P127,33,f,A,2023-12-18,asia-002,127.7,110.5,102.8,Mild,
+P128,18,f,B,2023-05-24,US-002,125.8,116.2,109.4,Mild,Patient exhibits better than expected response
+P129,42,m,A,2023-12-27,asia-002,116.8,98.9,92.2,Severe,Patient exhibits better than expected response
+P130,25,f,A,2023-12-09,asia-002,116.4,97.9,91.3,Mild,
+P131,61,Female,B,2023-06-14,asia-002,131.3,120.8,111.7,None,
+P132,59,f,Placebo,2023-05-22,US-001,126.7,122.9,125.9,None,Patient exhibited standard response to treatment
+P133,60,f,Control,2023-09-25,US-002,128.2,132.1,136.3,None,Patient reported mild discomfort at injection site
+P134,74,Male,A,2023-03-22,ASIA-001,120.5,102.4,92.9,Mild,Patient reports improved symptoms since last visit
+P135,48,F,B,2023-03-01,asia-002,121.4,114.5,104.4,Severe,Patient missed one dose due to travel
+P136,52,Female,Control,2023-11-01,EU-002,115.6,117.9,115.4,None,No significant observations during this visit
+P137,56,f,A,2023-01-20,EU-002,119.5,104,92.1,Mild,Patient exhibited standard response to treatment
+P138,44,Female,B,2023-08-03,US-001,106.9,98.4,90.2,Moderate,Patient reported mild discomfort at injection site
+P139,44,Female,Control,2023-02-07,asia-002,122.5,124.3,126.2,None,Patient exhibits better than expected response
+P140,32,Female,Placebo,2023-04-05,eu-001,128.4,129.7,133.1,None,No significant observations during this visit
+P141,31,Female,Control,2023-06-18,US-001,118.9,118.3,121.5,None,No significant observations during this visit
+P142,32,Female,B,2023-05-17,EU-002,124.5,114.6,108,Mild,No significant observations during this visit
+P143,45,Female,A,2023-08-17,US-002,125.5,106.7,97.7,Mild,Patient exhibited standard response to treatment
+P144,58,f,B,2023-01-19,US-002,112.6,103.1,94.1,Mild,Patient reports improved symptoms since last visit
+P145,61,Female,A,2023-05-04,ASIA-001,118,101.5,95.7,,Patient reported mild discomfort at injection site
+P146,37,f,A,2023-07-25,eu-001,114.7,96.8,88.9,Moderate,Patient exhibited standard response to treatment
+P147,62,m,B,2023-09-27,EU-002,108.8,99.7,95.6,Mild,Patient reports improved symptoms since last visit
+P148,41,M,A,2023-12-14,US-002,123.7,108.9,96.1,Mild,Patient exhibited standard response to treatment
+P149,69,Male,B,2023-01-19,asia-002,113.7,104.7,97.1,Mild,No significant observations during this visit
+P150,41,Male,Control,2023-09-14,asia-002,126.5,126.1,123.7,None,Patient reported mild discomfort at injection site
+P151,73,f,Placebo,2023-10-13,EU-002,127.8,126.1,125.8,None,
+P152,62,Female,Placebo,2023-12-08,EU-002,119.1,120.9,117.1,None,
+P153,37,Female,A,2023-03-05,US-001,120.9,104,96.6,Moderate,Patient reported mild discomfort at injection site
+P154,40,f,B,2023-12-07,EU-002,122.4,114.4,106.5,None,
+P155,67,Female,Placebo,2023-08-11,asia-002,108,108,104.7,None,Patient exhibited standard response to treatment
+P156,72,Male,Placebo,2023-08-12,US-001,125.7,128.2,123.9,None,No significant observations during this visit
+P157,41,Female,Control,2023-09-02,US-002,121.9,117.9,121.1,None,Patient reported mild discomfort at injection site
+P158,63,F,A,2023-09-04,US-001,130.9,113.3,103.2,Mild,Patient reported mild discomfort at injection site
+P159,51,Male,B,2023-02-15,EU-002,119.7,110.7,102.9,None,Follow-up required for reported side effects
+P160,33,m,Control,2023-07-08,EU-002,111.4,111.8,113.9,None,No significant observations during this visit
+P161,64,m,Placebo,2023-10-01,US-001,128.4,127.8,129.7,None,Patient exhibited standard response to treatment
+P162,52,f,A,2023-09-02,EU-002,124.5,106.6,96.7,Mild,
+P163,58,F,Control,2023-07-06,eu-001,127.8,126.1,126.8,None,Patient exhibited standard response to treatment
+P164,41,f,B,2023-09-21,US-001,108.5,101.2,91.2,Severe,No significant observations during this visit
+P165,38,f,Placebo,2023-08-14,US-002,125.6,127.4,127.6,None,Patient reported mild discomfort at injection site
+P166,75,Female,A,2023-05-22,US-001,132.3,112.1,102.8,Mild,Patient reported mild discomfort at injection site
+P167,54,M,A,2023-03-05,ASIA-001,126.3,107.1,95.9,Severe,Patient reports improved symptoms since last visit
+P168,48,m,B,2023-05-14,EU-002,126,117.8,105.8,Mild,No significant observations during this visit
+P169,26,M,A,2023-01-07,US-001,117.8,102.1,90.1,Mild,No significant observations during this visit
+P170,24,M,Placebo,2023-09-14,US-002,108.2,104.9,101.7,None,Patient reports improved symptoms since last visit
+P171,56,Female,Control,2023-01-05,US-001,125.2,120.1,120.5,,
+P172,59,Male,B,2023-07-05,US-001,125.4,115.5,104.5,None,Patient reports improved symptoms since last visit
+P173,61,Female,B,2023-09-26,asia-002,124.3,115.4,107.6,Mild,
+P174,27,Male,Placebo,2023-07-24,EU-002,118.2,117.6,117.6,None,Patient exhibited standard response to treatment
+P175,69,f,A,2023-01-12,EU-002,117.3,101.1,91.5,Mild,Patient exhibited standard response to treatment
+P176,68,M,Control,2023-09-28,ASIA-001,113,115.2,115.3,None,Patient exhibited standard response to treatment
+P177,62,Female,A,2023-04-14,US-002,133.7,114,101.9,Mild,Patient exhibited standard response to treatment
+P178,33,M,A,2023-12-12,US-001,111.7,96.1,86.4,,Patient exhibited standard response to treatment
+P179,42,f,B,2023-06-18,asia-002,119.9,110.4,101.2,Mild,No significant observations during this visit
+P180,33,Female,A,2023-08-24,asia-002,123.1,108.3,95.6,Severe,
+P181,67,Male,B,2023-06-08,EU-002,130.5,118.8,114.4,Mild,Patient reports improved symptoms since last visit
+P182,52,M,Control,2023-08-13,asia-002,129.4,127.5,122.3,None,Follow-up required for reported side effects
+P183,34,f,Placebo,2023-11-14,asia-002,123.7,120.6,120.6,None,
+P184,23,m,A,2023-12-20,US-001,122.2,107.1,98.5,Severe,Patient reports improved symptoms since last visit
+P185,53,f,B,2023-07-03,US-001,114,105.6,96.3,None,Patient reported mild discomfort at injection site
+P186,71,F,Control,2023-06-10,asia-002,124.9,126.1,128.6,None,Patient exhibited standard response to treatment
+P187,50,f,B,2023-06-16,US-002,118.3,107.1,97.4,Mild,Patient exhibits better than expected response
+P188,49,Male,Placebo,2023-06-05,EU-002,124.3,122.8,121.9,None,No significant observations during this visit
+P189,41,M,A,2023-06-28,asia-002,127.2,109.4,96,Moderate,Patient exhibited standard response to treatment
+P190,24,f,Control,2023-07-29,US-002,132.9,131.6,130.3,None,
+P191,59,m,B,2023-04-25,EU-002,133.9,124.2,113,Severe,
+P192,39,f,B,2023-06-23,US-001,110.3,99.3,92.5,Mild,Follow-up required for reported side effects
+P193,33,F,A,2023-06-23,US-002,120.5,104.4,96.4,Mild,Patient reports improved symptoms since last visit
+P194,37,F,A,2023-08-28,US-002,131.7,112.3,101.1,Severe,Patient reports improved symptoms since last visit
+P195,49,Male,Placebo,2023-08-03,asia-002,128.2,130.5,127.3,None,Follow-up required for reported side effects
+P196,38,M,A,2023-03-21,US-001,118.6,102,94.9,Mild,Patient reported mild discomfort at injection site
+P197,42,F,Control,2023-10-06,ASIA-001,115.4,115.9,118.7,None,Patient exhibited standard response to treatment
+P198,31,F,Control,2023-06-24,EU-002,109,107.1,109.5,None,Patient exhibited standard response to treatment
+P199,54,f,A,2023-11-01,asia-002,100.4,87.3,78.3,Moderate,Patient reported mild discomfort at injection site
+P200,52,Female,Placebo,2023-04-08,asia-002,115.5,118.9,115.5,None,Patient reports improved symptoms since last visit
